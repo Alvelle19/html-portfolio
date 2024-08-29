@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "../../Desktop/Web Development Learning/Projects"
+		},
+		{
+			"path": "../../Desktop/Web Development Learning/Projects/7.1 Combining Selectors"
+		},
+		{
+			"path": "../../Desktop/Web Development Learning/Projects/7.2 CSS Positioning"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"debug.internalConsoleOptions": "neverOpen"
+	}
+}
